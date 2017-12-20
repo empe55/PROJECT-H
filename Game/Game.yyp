@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "81c137fa-dbd0-4999-94ae-d32ffb3ea082",
+            "Value": {
+                "id": "3cbc60ba-d9b8-40fa-8b83-b3b33d8b870e",
+                "resourcePath": "sprites\\ph_sprite_rocket\\ph_sprite_rocket.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "83cd9214-5ea6-450a-9185-6008ed681df3",
             "Value": {
                 "id": "bc03f6f3-7f0c-43ab-8842-0b0991d4b552",
