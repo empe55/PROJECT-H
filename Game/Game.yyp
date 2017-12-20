@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "14e00f7d-192c-4662-8977-893eadbbf4bd",
+            "Value": {
+                "id": "5163227d-03ba-4f85-9fb5-060f7377f593",
+                "resourcePath": "sprites\\ph_spritetest\\ph_spritetest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "36f7380c-4295-459c-9500-54f049f39f14",
             "Value": {
                 "id": "d1563650-2325-4c01-8fc2-72bf7913b90a",
